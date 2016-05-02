@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./lebenundwandelk01egingoog_0011.png"; bbox 0 0 2870 5086; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 289 1436 930 1590">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 289 1436 930 1590">
+     <span class='ocr_line' id='line_1_1' title="bbox 289 1436 930 1590; baseline -0.002 -34"><span class='ocrx_word' id='word_1_1' title='bbox 289 1436 447 1558; x_wconf 50' lang='lat' dir='ltr'>‘Seinef</span> <span class='ocrx_word' id='word_1_2' title='bbox 474 1467 747 1590; x_wconf 69' lang='lat' dir='ltr'><strong>Kflniglichen</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 776 1467 930 1556; x_wconf 82' lang='lat' dir='ltr'>Hoheit</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 582 1829 659 1891">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 582 1829 659 1891">
+     <span class='ocr_line' id='line_1_2' title="bbox 582 1829 659 1891; baseline 0.026 -2"><span class='ocrx_word' id='word_1_4' title='bbox 582 1829 659 1891; x_wconf 87' lang='lat' dir='ltr'><strong>dem</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 64 2149 1170 2331">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 64 2149 1170 2331">
+     <span class='ocr_line' id='line_1_3' title="bbox 64 2149 1170 2331; baseline 0.002 -43"><span class='ocrx_word' id='word_1_5' title='bbox 64 2153 586 2331; x_wconf 82' lang='lat' dir='ltr'><strong>Kronp&#39;rinzen</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 630 2195 771 2293; x_wconf 81' lang='lat' dir='ltr'><strong>von</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 818 2149 1170 2294; x_wconf 81' lang='lat' dir='ltr'><strong>Preussen</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 818 4170 1111 4226">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 818 4170 1111 4226">
+     <span class='ocr_line' id='line_1_4' title="bbox 818 4170 1111 4226; baseline -0.01 0"><span class='ocrx_word' id='word_1_8' title='bbox 818 4174 845 4226; x_wconf 75' lang='lat' dir='ltr'><strong>in</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 862 4173 956 4226; x_wconf 70' lang='lat' dir='ltr'><strong>fiefster</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 970 4170 1111 4224; x_wconf 74' lang='lat' dir='ltr'>Ehrfureht</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 756 4307 1177 4386">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 756 4307 1177 4386">
+     <span class='ocr_line' id='line_1_5' title="bbox 756 4307 1177 4386; baseline -0.012 0"><span class='ocrx_word' id='word_1_11' title='bbox 756 4309 835 4386; x_wconf 89' lang='lat' dir='ltr'><strong>Jul.</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 859 4309 1001 4385; x_wconf 82' lang='lat' dir='ltr'>L&#39;udw.</span> <span class='ocrx_word' id='word_1_13' title='bbox 1026 4307 1177 4386; x_wconf 81' lang='lat' dir='ltr'><strong>Ideler.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 0 0 1440 5086">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 0 0 1440 5086">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1440 5086; baseline 0 0"><span class='ocrx_word' id='word_1_14' title='bbox 0 0 1440 5086; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
